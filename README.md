@@ -1,5 +1,7 @@
 # line-follower-robot-arduino
  
+ Line Follower Robot follows a black line.
+ 
 ## Contact
 
 Name: Hoan Tran
